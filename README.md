@@ -1,7 +1,7 @@
 # Jornada
 
 <div align="center">
-    <img width=80% src="https://en.vetores.org/d/compass-uol.svg" style="background: white; padding: 30px">
+    <img width=80% src="https://github.com/EdnaldoLuiz/AWS-Cloud-Data-Engineering-Compass-UOL/assets/112354693/2e82b97f-8cba-4bc1-8883-ac81c8957023">
 </div>
 
 - **Studio:** D&A - AWS
@@ -12,7 +12,7 @@
 # Sobre mim
 
 <div align="center">
-    <img style="border-radius:50%; border: 5px solid orange" width=50% src="https://avatars.githubusercontent.com/u/112354693?v=4">
+    <img width=50% src="https://github.com/EdnaldoLuiz/AWS-Cloud-Data-Engineering-Compass-UOL/assets/112354693/b363b8f2-d9c5-466b-aceb-8204802daa6b">
 </div>
 
 <br>
@@ -42,9 +42,9 @@
 
 # Sprints
 
-## Sprint 1  **[→]()** 
+## Sprint 1  **[→](https://github.com/EdnaldoLuiz/AWS-Cloud-Data-Engineering-Compass-UOL/tree/main/sprints%2Fsprint-1)** 
 
-**Responsavel:** Luis Gustavo Tomaz Silva
+**Responsavel:** Luis Gustavo Tomaz Silva **[→](https://github.com/gus-phys)**
 
 ![](https://progress-bar.dev/100/)
 
