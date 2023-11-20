@@ -6,8 +6,9 @@
 
 - **Studio:** D&A - AWS
 - **Squad:** 3
+- **Turma:** T1-NOV-23
 
-<br>
+<hr>
 
 # Sobre mim
 
@@ -19,6 +20,7 @@
 
 - **Nome:** Ednaldo Luiz de Lira Júnior
 - **Endereço:** Recife - PE
+- **Hobbies:** Programar pra mim é mais que uma profissão, é um hobbie e também sou interessado por Astronomia e temas sobre o Universo. 
 - **Formação:** Análise e Desenvolvimento de Sistemas
 - **Status:** Cursando 4º Período
 - **Experiências:** Realizo projetos pessoais e em equipe com frequência, aonde já atuei tanto com desenvolvimento Back-end e Front-end. Posso destacar: 
@@ -39,6 +41,8 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ednaldoluiz)
 
 </div>
+
+<hr>
 
 # Sprints
 
@@ -79,7 +83,7 @@
 ## Sprint 10 **[→]()** 
 ![](https://progress-bar.dev/0/)
 
-<br>
+<hr>
 
 # Outros
 
@@ -89,11 +93,13 @@
 ## Conteúdo Complementar **[→]()** 
 ![](https://progress-bar.dev/0/)
 
+<hr>
+
 # Meu aprendizado
 
 ## Sprint 1
 
-Durante a Sprint 1 eu pude aprender coisas novas que serão uteis na minha jornada e melhorar em temas que eu já conhecia, apesar de já usar o Git e o Linux, pude me aprofundar mais descobrindo comandos novos para agregar na minha carreira. Mas meu aprendizado não se resumiu apenas a conteúdo técnico, acredito que meu maior ganho foi usar a metodologia Scrum e poder desenvolver minhas softskills interagindo com meus colegas da bolsa e com o instrutor Luis Gustavo, a minha forma de se relacionar com as pessoas é algo que sempre busco melhorar.
+> Durante a Sprint 1 eu pude aprender coisas novas que serão uteis na minha jornada e melhorar em temas que eu já conhecia, apesar de já usar o Git e o Linux, pude me aprofundar mais descobrindo comandos novos para agregar na minha carreira. Mas meu aprendizado não se resumiu apenas a conteúdo técnico, acredito que meu maior ganho foi usar a metodologia Scrum e poder desenvolver minhas softskills interagindo com meus colegas da bolsa e com o instrutor Luis Gustavo, a minha forma de se relacionar com as pessoas é algo que sempre busco melhorar.
 
 ### Aprendizados
 - Softskills
