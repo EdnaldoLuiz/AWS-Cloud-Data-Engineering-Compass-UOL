@@ -76,32 +76,8 @@ ORDER BY
 
 ## Exercício 11
 
-Apresente a query para listar o código e nome cliente com maior         v.status = 'Concluído'
-    GROUP BY
-        v.cdvdd
-    HAVING
-        total_sales > 0
-)
+Apresente a query para listar o código e nome cliente com maior gasto na loja. As colunas presentes no resultado devem ser cdcli, nmcli e gasto, esta última representando o somatório das vendas (concluídas) atribuídas ao cliente.
 
-SELECT
-    d.cddep AS cddep,
-    d.nmdep AS nmdep,
-    d.dtnasc AS dtnasc,
-    s.total_sales AS valor_total_vendas
-FROM
-    SellerTotalSales s
-JOIN
-    tbvendedor v ON s.seller_id = v.cdvdd
-JOIN
-    tbdependente d ON v.cdvdd = d.cdvdd
-WHERE
-    s.total_sales = (SELECT MIN(total_sales) FROM SellerTotalSales)
-ORDER BY
-    d.cddep;
-```
-gasto na loja. As colunas presentes no resultado devem ser cdcli, nmcli e gasto, esta última representando o somatório das vendas (concluídas) atribuídas ao cliente.
-
-## Resolução
 
 ```sql
 SELECT
