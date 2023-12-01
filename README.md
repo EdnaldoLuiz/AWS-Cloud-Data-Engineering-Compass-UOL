@@ -102,7 +102,20 @@
 > Durante a Sprint 1 eu pude aprender coisas novas que serão uteis na minha jornada e melhorar em temas que eu já conhecia, apesar de já usar o Git e o Linux, pude me aprofundar mais descobrindo comandos novos para agregar na minha carreira. Mas meu aprendizado não se resumiu apenas a conteúdo técnico, acredito que meu maior ganho foi usar a metodologia Scrum e poder desenvolver minhas softskills interagindo com meus colegas da bolsa e com o instrutor Luis Gustavo, a minha forma de se relacionar com as pessoas é algo que sempre busco melhorar.
 
 ### Aprendizados
+
 - Softskills
 - Scrum
 - Git
 - Linux
+
+## Sprint 2
+
+> Durante essa Sprint eu puder ter uma imersão no mundo de dados dando passos mais longos, meu conhecimento em SQL era básico e pude me aprofundar mais conhecendo querys avançadas, mas ainda tenho muito que aprender e isso me motiva. Tive a oportunidade de realizar um curso da DSA sobre Big Data, aonde foi meu primeiro contato com dados e conceitos usados na engenharia de dados, desde que ingressei no mundo de TI sempre estive focado em engenharia de software, mas dessa vez pude sair dessa bolha e conhecer novos temas, e confesso que adorei. Gostaria de agradecer muito ao Daniel que foi o responsavel por essa sprint, que sempre esteve ajudando tirando duvidos no privado do Teams e nas dailies, ter um feedback sobre seu desenvolvimento é muito importante
+
+### Aprendizados
+
+- SQL
+- PgAdmin
+- Big Data
+- DBeaver
+- Softskills
