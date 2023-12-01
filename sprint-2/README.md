@@ -12,14 +12,14 @@
 
 ## Evidencias
 
-Na pasta de [evidencias]() estão agrupados os prints das querys dos exercícios realizados na Udemy que resultaram em corretos
+Na pasta de [evidencias](https://github.com/EdnaldoLuiz/AWS-Cloud-Data-Engineering-Compass-UOL/tree/main/sprint-2/evidencias) estão agrupados os prints das querys dos exercícios realizados na Udemy que resultaram em corretos
 
 ## Certificados
 
-Na pasta [certificados]() consta a imagem dos certificados da Sprint 2
+Na pasta [certificados](https://github.com/EdnaldoLuiz/AWS-Cloud-Data-Engineering-Compass-UOL/tree/main/sprint-2/certificados) consta a imagem dos certificados da Sprint 2
 
 ## Exercícios
 
-- [Biblioteca de 1 a 7]()
-- [Loja de 8 a 16]()
-- [Exportar dados como CSV]()
+- [Biblioteca de 1 a 7](https://github.com/EdnaldoLuiz/AWS-Cloud-Data-Engineering-Compass-UOL/blob/main/sprint-2/exercicios/biblioteca-01-ate-07/exercicios-biblioteca.md)
+- [Loja de 8 a 16](https://github.com/EdnaldoLuiz/AWS-Cloud-Data-Engineering-Compass-UOL/blob/main/sprint-2/exercicios/loja-08-ate-16/exercicios-loja.md)
+- [Exportar dados como CSV](https://github.com/EdnaldoLuiz/AWS-Cloud-Data-Engineering-Compass-UOL/tree/main/sprint-2/exercicios/exportar-dados)
