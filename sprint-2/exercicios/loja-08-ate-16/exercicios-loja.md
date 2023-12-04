@@ -114,6 +114,28 @@ WITH SellerTotalSales AS (
     FROM
         tbvendas v
     WHERE
+        v.status = 'Concluído'
+    GROUP BY
+        v.cdvdd
+    HAVING
+        total_sales > 0
+)
+
+SELECT
+    d.cddep AS cddep,
+    d.nmdep AS nmdep,
+    d.dtnasc AS dtnasc,
+    s.total_sales AS valor_total_vendas
+FROM
+    SellerTotalSales s
+JOIN
+    tbvendedor v ON s.seller_id = v.cdvdd
+JOIN
+    tbdependente d ON v.cdvdd = d.cdvdd
+WHERE
+    s.total_sales = (SELECT MIN(total_sales) FROM SellerTotalSales)
+ORDER BY
+    d.cddep;
 ```
 
 ---
