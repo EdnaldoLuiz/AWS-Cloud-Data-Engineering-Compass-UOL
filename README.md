@@ -66,8 +66,13 @@
 - [x] Big Data fundamentos 3.0
 - [x] Exercícios 2/10 
 
-## Sprint 3 **[→]()** 
-![](https://progress-bar.dev/0/)
+## Sprint 3 **[→](https://github.com/EdnaldoLuiz/AWS-Cloud-Data-Engineering-Compass-UOL/tree/main/sprint-3)** 
+![](https://progress-bar.dev/100/)
+
+**Responsavel:** Guilherme Konishi Yoshihara **[→](https://www.linkedin.com/in/guilherme-konishi)**
+
+- [x] Python 
+- [x] Exercícios 3/10
 
 ## Sprint 4 **[→]()** 
 ![](https://progress-bar.dev/0/)
@@ -128,3 +133,16 @@
 - Big Data
 - DBeaver
 - Softskills
+
+---
+
+## Sprint 3  **[→](https://github.com/EdnaldoLuiz/AWS-Cloud-Data-Engineering-Compass-UOL/tree/main/sprint-3)** 
+
+> Durante esta Sprint, pude aprofundar-me mais em Python, conhecendo desde a sua sintaxe até as suas principais vantagens na área de dados. Foi uma Sprint um pouco longa, então precisei levar um pouco mais de tempo para absorver todo o conhecimento, mas estou realizando projetos além dos exercícios para poder fixar melhor o conteúdo. Gostaria de agradecer ao responsável por esta Sprint, o Guilherme, que sempre esteve me ajudando com as minhas dúvidas nos exercícios e nas entregas.
+
+### Aprendizados
+
+- Python
+- Algoritimos
+- Estrutura de dados
+- ETL com Python
