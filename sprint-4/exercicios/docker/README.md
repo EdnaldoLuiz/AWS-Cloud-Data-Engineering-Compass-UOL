@@ -12,7 +12,7 @@ Registre aqui o conteúdo de seu arquivo Dockerfile e o comando utilizado para e
 
 ### Resolução
 
-Veja os resultados e arquivos [aqui]()
+Veja os resultados e arquivos [aqui](https://github.com/EdnaldoLuiz/AWS-Cloud-Data-Engineering-Compass-UOL/tree/main/sprint-4/exercicios/docker/exercicio-1)
 
 ### Exercicio 2
 
@@ -20,7 +20,7 @@ Veja os resultados e arquivos [aqui]()
 
 ### Resolução
 
-Veja os resultados e arquivos [aqui]()
+Veja os resultados e arquivos [aqui](https://github.com/EdnaldoLuiz/AWS-Cloud-Data-Engineering-Compass-UOL/tree/main/sprint-4/exercicios/docker/exercicio-2)
 
 ### Exercicio 3
 
@@ -39,4 +39,4 @@ Agora vamos exercitar a criação de um container que permita receber inputs dur
 
 ### Resolução
 
-Veja os resultados e arquivos [aqui]()
+Veja os resultados e arquivos [aqui](https://github.com/EdnaldoLuiz/AWS-Cloud-Data-Engineering-Compass-UOL/tree/main/sprint-4/exercicios/docker/exercicio-3)

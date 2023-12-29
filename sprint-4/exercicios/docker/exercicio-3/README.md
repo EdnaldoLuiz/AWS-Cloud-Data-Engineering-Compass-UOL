@@ -22,34 +22,8 @@ Agora vamos exercitar a criação de um container que permita receber inputs dur
 ## Resolução
 
 - Link da imagem Docker no meu Dockerhub [aqui](https://hub.docker.com/repository/docker/ednaldoluiz/mascarar-dados/general)
-
-- Script Python
-
-```python
-import hashlib
-
-while True:
-    input_string = input("Digite uma string para mascarar (ou 'sair' para sair): ")
-
-    if input_string.lower() == 'sair':
-        break
-
-    sha1_hash = hashlib.sha1(input_string.encode()).hexdigest()
-
-    print(f"Hash SHA-1 da string '{input_string}': {sha1_hash}")
-```
-
-- Dockerfile
-
-```dockerfile
-FROM python:3.9
-
-COPY mascarar_dados.py /app/mascarar_dados.py
-
-WORKDIR /app
-
-CMD ["python", "mascarar_dados.py"]
-```
+- [script Python](https://github.com/EdnaldoLuiz/AWS-Cloud-Data-Engineering-Compass-UOL/blob/main/sprint-4/exercicios/docker/exercicio-3/mascarar_dados.py)
+- [Dockerfile](https://github.com/EdnaldoLuiz/AWS-Cloud-Data-Engineering-Compass-UOL/blob/main/sprint-4/exercicios/docker/exercicio-3/Dockerfile)
 
 ### Comandos utilizados
 
