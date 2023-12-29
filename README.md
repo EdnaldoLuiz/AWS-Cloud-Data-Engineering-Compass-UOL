@@ -30,7 +30,7 @@
 - **Tecnologias:** 
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,spring,git,mysql,aws" />
+    <img src="https://skillicons.dev/icons?i=java,spring,git,mysql,angular" />
 </div>
 
 - **Mais sobre mim:** 
@@ -74,8 +74,15 @@
 - [x] Python 
 - [x] Exercícios 3/10
 
-## Sprint 4 **[→]()** 
-![](https://progress-bar.dev/0/)
+## Sprint 4 **[→](https://github.com/EdnaldoLuiz/AWS-Cloud-Data-Engineering-Compass-UOL/tree/main/sprint-4)** 
+![](https://progress-bar.dev/100/)
+
+**Responsavel:** Carlos Eduardo **[→](https://www.linkedin.com/in/carlos-eduardo-f-souza-a834961bb/)**
+
+- [x] Python Funcional
+- [x] Docker para Desenvolvedores
+- [x] Estatística Descritiva com Python
+- [x] Exercícios 4/10
 
 ## Sprint 5 **[→]()** 
 ![](https://progress-bar.dev/0/)
@@ -99,8 +106,11 @@
 
 # Outros
 
-## Cultura Ágil e Segurança **[→]()** 
-![](https://progress-bar.dev/0/)
+## Cultura Ágil e Segurança **[→](https://github.com/EdnaldoLuiz/AWS-Cloud-Data-Engineering-Compass-UOL/tree/main/cultura-agil-e-seguranca)** 
+![](https://progress-bar.dev/100/)
+
+- [x] Métodos ágeis de A a Z
+- [x] Segurança em Aplicações WEB
 
 ## Conteúdo Complementar **[→]()** 
 ![](https://progress-bar.dev/0/)
@@ -146,3 +156,20 @@
 - Algoritimos
 - Estrutura de dados
 - ETL com Python
+
+---
+
+## Sprint 4 **[→](https://github.com/EdnaldoLuiz/AWS-Cloud-Data-Engineering-Compass-UOL/tree/main/sprint-4)** 
+
+> Eu Gostei bastante dessa Sprint, acredito que o conteúdo dela foi o meu Favorito, pelo fato de já estar com muita vontade de reforçar meu aprendizado com Docker, eu já realizei um curso de Docker na Alura mas fiquei com a sensação que não fixei bem tudo que aprendi, mas durante essa Sprint essa sensação foi embora, pude criar containers de diversos modos a realização do exercícios foram coisas que me ajudaram bastante. Gostaria de agradecer ao Carlos que sempre esteve respondendo as minhas dúvidas e curiosidades e aos otimos conselhos dados durante essa Sprint.
+
+### Aprendizados
+
+- Python
+- Dockerhub
+- Docker e Containers
+- Kubernetes
+- Estatísticas
+- Organização
+
+---
