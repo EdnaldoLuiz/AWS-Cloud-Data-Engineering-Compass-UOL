@@ -16,8 +16,8 @@ docker build -t carguru-ex1 .
 
 ### Executar o container
 
-> Obs: dei o nome do container de carros usando o parâmetro --name
+> Obs: usei o parametro --rm para ele ser excluido após a execução
 
 ```docker
-docker run --name carros carguru-ex1
+docker run --rm carguru-ex1
 ```
