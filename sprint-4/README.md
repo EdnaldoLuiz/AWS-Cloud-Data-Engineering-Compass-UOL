@@ -24,7 +24,7 @@ Na pasta [certificados](https://github.com/EdnaldoLuiz/AWS-Cloud-Data-Engineerin
 - [Python](https://github.com/EdnaldoLuiz/AWS-Cloud-Data-Engineering-Compass-UOL/blob/main/sprint-4/exercicios/python) consta os exercícios de Python propostos na Udemy organizados em um arquivo markdown
 
 - [Exercícios de Docker](https://github.com/EdnaldoLuiz/AWS-Cloud-Data-Engineering-Compass-UOL/tree/main/sprint-4/exercicios/docker)
-Consta o exercício de ETL, contendo 2 formas, sendo um arquivo python normal ou um formato notebook, e dentro da pasta etapas os resultados da etapa 1 até a 5.
+Consta os 3 exercícios de Docker em 3 subpastas (exercicio-1, exercicio-2, exercicio-3)
 
 ## Meu Aprendizado
 
