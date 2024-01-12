@@ -85,7 +85,14 @@
 - [x] Exercícios 4/10
 
 ## Sprint 5 **[→]()** 
-![](https://progress-bar.dev/0/)
+![](https://progress-bar.dev/100/)
+
+**Responsavel:** Avner Dal Bosco **[→](https://br.linkedin.com/in/avnerdalbosco)**
+
+- [x] 3 Cursos AWS Partner
+- [x] Curso Exam Prep AWS
+- [x] AWS Cloud Quest
+- [x] Exercícios 5/10
 
 ## Sprint 6 **[→]()** 
 ![](https://progress-bar.dev/0/)
@@ -171,5 +178,18 @@
 - Kubernetes
 - Estatísticas
 - Organização
+
+---
+
+## Sprint 5 **[→](https://github.com/EdnaldoLuiz/AWS-Cloud-Data-Engineering-Compass-UOL/tree/main/sprint-5)** 
+
+> Essa Sprint foi muito diferente das outras de uma forma positiva, a metodologia de ensino mudou mas adorei realizar cursos no AWS Skill Builder, já que essa é uma das minhas metas para 2024 vou aproveitar bastante os cursos da plataforma e do AWS Educate buscando realizar o maximo de cursos possivel. Gostaria de agradecer ao Avner por ter sempre se disponibilizado a ajudar o pessoal com problemas no console e pelas dailies separadas por Squads.
+
+### Aprendizados
+
+- Cloud
+- Conceitos AWS
+- Console AWS
+- Parceiros AWS
 
 ---
