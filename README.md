@@ -95,7 +95,12 @@
 - [x] Exercícios 5/10
 
 ## Sprint 6 **[→]()** 
-![](https://progress-bar.dev/0/)
+![](https://progress-bar.dev/100/)
+
+**Responsavel:** Decio Michellis Neto **[→](https://www.linkedin.com/in/décio-michellis-neto-884868208)**
+
+- [x] 13 Cursos AWS Skill Builder
+- [x] Exercícios 6/10
 
 ## Sprint 7 **[→]()** 
 ![](https://progress-bar.dev/0/)
@@ -191,5 +196,19 @@
 - Conceitos AWS
 - Console AWS
 - Parceiros AWS
+
+---
+
+## Sprint 6 **[→](https://github.com/EdnaldoLuiz/AWS-Cloud-Data-Engineering-Compass-UOL/tree/main/sprint-6)** 
+
+> Essa Sprint foi bastante evolutiva como um complemento da Sprint anterior, podendo avançar mais ainda nos principais serviços da AWS para dados e ter uma visão do que será necessario para o desafio final e tambem conhecer mais na pratica o ambiente da AWS pelos exercicios promovidos pela Sprint. Gostaria de agradecer ao Decio por ter explicado alguns serviços da AWS nas dailies, que foi um diferencial que notei em relação as outras Sprints e sem dúvidas ajudou bastante a min e ao pessoal
+
+### Aprendizados
+
+- AWS Quicksight
+- AWS Redshift
+- Fundamentos do Data Analytics na AWS
+- Conceitos AWS
+- Console AWS
 
 ---
