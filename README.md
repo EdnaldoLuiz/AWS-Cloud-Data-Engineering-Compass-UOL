@@ -107,10 +107,10 @@
 
 **Responsavel:** Gabriel de Lima Arruda **[→](https://www.linkedin.com/in/gabriel-arruda-7b0b61223)**
 
--[x] Curso Hadoop
--[x] Curso Apache Pyspark
--[x] Exercícios 7/10
--[x] Desafio final 1/4
+- [x] Curso Hadoop
+- [x] Curso Apache Pyspark
+- [x] Exercícios 7/10
+- [x] Desafio final 1/4
 
 ## Sprint 8 **[→]()** 
 ![](https://progress-bar.dev/0/)
