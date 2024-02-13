@@ -23,7 +23,8 @@
 - **Hobbies:** Programar pra mim é mais que uma profissão, é um hobbie e também sou interessado por Astronomia e temas sobre o Universo. 
 - **Formação:** Análise e Desenvolvimento de Sistemas
 - **Status:** Cursando 4º Período
-- **Experiências:** Realizo projetos pessoais e em equipe com frequência, aonde já atuei tanto com desenvolvimento Back-end e Front-end. Posso destacar: 
+- **Experiência:** Desenvolvedor Back-end Júnior Java - 1 mês
+- **Projetos em Destaque:** Realizo projetos pessoais e em equipe com frequência, aonde já atuei tanto com desenvolvimento Back-end e Front-end. Posso destacar: 
 **[To-Day-list](https://github.com/EdnaldoLuiz/to-day-list)**,
 **[HelpUp](https://github.com/EdnaldoLuiz/HELP_UP_PROJECT)**,
 **[TaskMe-CRUD](https://github.com/EdnaldoLuiz/TaskMe-CRUD)**
