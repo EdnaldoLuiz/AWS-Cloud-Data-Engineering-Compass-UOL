@@ -84,7 +84,7 @@
 - [x] Estatística Descritiva com Python
 - [x] Exercícios 4/10
 
-## Sprint 5 **[→]()** 
+## Sprint 5 **[→](https://github.com/EdnaldoLuiz/AWS-Cloud-Data-Engineering-Compass-UOL/tree/main/sprint-5)** 
 ![](https://progress-bar.dev/100/)
 
 **Responsavel:** Avner Dal Bosco **[→](https://br.linkedin.com/in/avnerdalbosco)**
@@ -94,7 +94,7 @@
 - [x] AWS Cloud Quest
 - [x] Exercícios 5/10
 
-## Sprint 6 **[→]()** 
+## Sprint 6 **[→](https://github.com/EdnaldoLuiz/AWS-Cloud-Data-Engineering-Compass-UOL/tree/main/sprint-6)** 
 ![](https://progress-bar.dev/100/)
 
 **Responsavel:** Decio Michellis Neto **[→](https://www.linkedin.com/in/décio-michellis-neto-884868208)**
@@ -102,8 +102,15 @@
 - [x] 13 Cursos AWS Skill Builder
 - [x] Exercícios 6/10
 
-## Sprint 7 **[→]()** 
-![](https://progress-bar.dev/0/)
+## Sprint 7 **[→](https://github.com/EdnaldoLuiz/AWS-Cloud-Data-Engineering-Compass-UOL/tree/main/sprint-7)** 
+![](https://progress-bar.dev/100/)
+
+**Responsavel:** Gabriel de Lima Arruda **[→](https://www.linkedin.com/in/gabriel-arruda-7b0b61223)**
+
+-[x] Curso Hadoop
+-[x] Curso Apache Pyspark
+-[x] Exercícios 7/10
+-[x] Desafio final 1/4
 
 ## Sprint 8 **[→]()** 
 ![](https://progress-bar.dev/0/)
@@ -210,5 +217,19 @@
 - Fundamentos do Data Analytics na AWS
 - Conceitos AWS
 - Console AWS
+
+---
+
+## Sprint 7 **[→](https://github.com/EdnaldoLuiz/AWS-Cloud-Data-Engineering-Compass-UOL/tree/main/sprint-7)** 
+
+> Essa Sprint foi o maior ponto de entrada para o mundo de Big Data, eu pude conhecer alguns dos serviços mais famosos no mundo de dados e bastante requisitados em grandes empresas e utilizar novamente serviços no ambiente da AWS como o Glue, Lake formation, IAM e outros, e tambem pude dar inicio ao principal desafio do programa de bolsas, reforçando os conhecimentos em Python e Docker.
+
+### Aprendizados
+
+- Hadoop
+- MapReduce
+- Pyspark
+- Big Data
+- AWS Glue
 
 ---
