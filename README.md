@@ -114,7 +114,12 @@
 - [x] Desafio final 1/4
 
 ## Sprint 8 **[→]()** 
-![](https://progress-bar.dev/0/)
+![](https://progress-bar.dev/100/)
+
+**Responsavel:** Gabriel de Lima Arruda **[→](https://www.linkedin.com/in/gabriel-arruda-7b0b61223)**
+
+- [x] Exercícios 8/10
+- [x] Desafio final 2/4
 
 ## Sprint 9 **[→]()** 
 ![](https://progress-bar.dev/0/)
@@ -231,6 +236,19 @@
 - MapReduce
 - Pyspark
 - Big Data
+- AWS Glue
+
+---
+
+## Sprint 8 **[→](https://github.com/EdnaldoLuiz/AWS-Cloud-Data-Engineering-Compass-UOL/tree/main/sprint-8)** 
+
+> Como nessa sprint não tivemos cursos foi o momento para dedicar meus estudos para a certificação da AWS, realizando os cursos adicionais na Udemy e alguns exames para a prova. Assim como o material da sprint 8 com os videos no Youtube sobre os serviços da AWS necessarios para a sprint.
+
+### Aprendizados
+
+- Apache Spark
+- AWS Quicksight
+- AWS Athena
 - AWS Glue
 
 ---
