@@ -1,4 +1,4 @@
-## Sprint 8 **
+## Sprint 8
 
 > Como nessa sprint não tivemos cursos foi o momento para dedicar meus estudos para a certificação da AWS, realizando os cursos adicionais na Udemy e alguns exames para a prova. Assim como o material da sprint 8 com os videos no Youtube sobre os serviços da AWS necessarios para a sprint.
 
