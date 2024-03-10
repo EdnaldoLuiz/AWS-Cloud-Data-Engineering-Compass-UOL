@@ -28,6 +28,8 @@ CREATE TABLE Locacao (
   vlrDiaria DECIMAL,
   dataLocacao DATE,
   horaLocacao TIME,
+  dataEntrega DATE,
+  horaEntrega TIME,
   idVendedor INTEGER,
   FOREIGN KEY (idCliente) REFERENCES Cliente (idCliente),
   FOREIGN KEY (idCarro) REFERENCES Carro (idCarro),
@@ -64,6 +66,26 @@ INSERT OR IGNORE INTO Vendedor (idVendedor, nomeVendedor, sexoVendedor, estadoVe
 SELECT DISTINCT idVendedor, nomeVendedor, sexoVendedor, estadoVendedor
 FROM tb_locacao;
 
-INSERT INTO Locacao (idLocacao, idCliente, idCarro, qtdDiaria, vlrDiaria, dataLocacao, horaLocacao, idVendedor)
-SELECT DISTINCT idLocacao, idCliente, idCarro, qtdDiaria, vlrDiaria, dataLocacao, horaLocacao, idVendedor
+INSERT INTO Locacao (idLocacao, idCliente, idCarro, qtdDiaria, vlrDiaria, dataLocacao, horaLocacao, dataEntrega, horaEntrega, idVendedor)
+SELECT DISTINCT idLocacao, idCliente, idCarro, qtdDiaria, vlrDiaria, dataLocacao, horaLocacao, dataEntrega, horaEntrega, idVendedor
 FROM tb_locacao;
+
+-- Query para testar as tabelas após a normização da tabela tb_locacao
+
+SELECT 
+    l.idLocacao,
+    c.nomeCliente,
+    ca.marcaCarro,
+    ca.modeloCarro,
+    co.tipoCombustivel,
+    l.dataLocacao,
+    l.horaLocacao,
+    l.dataEntrega,
+    l.horaEntrega,
+    v.nomeVendedor
+FROM Locacao l
+JOIN Cliente c ON l.idCliente = c.idCliente
+JOIN Carro ca ON l.idCarro = ca.idCarro
+JOIN Combustivel co ON ca.idcombustivel = co.idcombustivel
+JOIN Vendedor v ON l.idVendedor = v.idVendedor;
+
