@@ -23,7 +23,7 @@
 - **Hobbies:** Programar pra mim é mais que uma profissão, é um hobbie e também sou interessado por Astronomia e temas sobre o Universo. 
 - **Formação:** Análise e Desenvolvimento de Sistemas
 - **Status:** Cursando 4º Período
-- **Experiência:** Desenvolvedor Back-end Júnior Java - 1 mês
+- **Experiência:** Desenvolvedor Back-end Júnior Java - 2 meses
 - **Projetos em Destaque:** Realizo projetos pessoais e em equipe com frequência, aonde já atuei tanto com desenvolvimento Back-end e Front-end. Posso destacar: 
 **[To-Day-list](https://github.com/EdnaldoLuiz/to-day-list)**,
 **[HelpUp](https://github.com/EdnaldoLuiz/HELP_UP_PROJECT)**,
@@ -122,7 +122,12 @@
 - [x] Desafio final 2/4
 
 ## Sprint 9 **[→]()** 
-![](https://progress-bar.dev/0/)
+![](https://progress-bar.dev/100/)
+
+**Responsavel:** Isabela Ramos Braga Novaes Romeu **[→](https://www.linkedin.com/in/isabelaromeu)**
+
+- [x] Exercícios 9/10
+- [x] Desafio final 3/4
 
 ## Sprint 10 **[→]()** 
 ![](https://progress-bar.dev/0/)
@@ -250,5 +255,19 @@
 - AWS Quicksight
 - AWS Athena
 - AWS Glue
+
+---
+
+## Sprint 9 **[→](https://github.com/EdnaldoLuiz/AWS-Cloud-Data-Engineering-Compass-UOL/tree/main/sprint-9)** 
+
+> Como nessa sprint não tivemos cursos foi o momento para dedicar meus estudos para a certificação da AWS, realizando os cursos adicionais na Udemy e alguns exames para a prova. E tambem aprofundar meus estudos na modelagem de dados com o DBeaver e seus conceitos. A Isabela foi bastante clara de forma detalhada sobre o que deveria ser entregue e a quantidade de dailies proposta separadamente foi maior, ponto bastante positivo em minha opinião
+
+### Aprendizados
+
+- DBeaver
+- Modealgem Relacional
+- Modealgem Dimensional
+- AWS Glue
+- S3
 
 ---
