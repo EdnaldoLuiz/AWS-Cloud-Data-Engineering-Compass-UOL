@@ -35,36 +35,44 @@
 <table>
   <thead>
     <tr>
+      <th>Ilustração</th>
       <th>Gráfico</th>
       <th>Motivação</th>
     </tr>
   </thead>
-  <tbody>
+  <tbody align=center>
     <tr>
+      <td><img src="https://github.com/EdnaldoLuiz/AWS-Cloud-Data-Engineering-Compass-UOL/assets/112354693/19aad237-cb5f-4b8c-b50e-bee143e45de2" width=60px height=60px></td>
       <td>Gráfico de Barras Horizontais</td>
       <td>O gráfico de barras horizontais foi escolhido devido à sua capacidade de representar dados de uma forma clara e fácil de comparar. Ele é eficaz para exibir grandes quantidades de dados e é ideal para destacar diferenças entre categorias.</td>
     </tr>
     <tr>
+      <td><img src="https://github.com/EdnaldoLuiz/AWS-Cloud-Data-Engineering-Compass-UOL/assets/112354693/769b9cae-955b-4f68-a817-ca61b83c13d4" width=60px height=60px></td>
       <td>KPI (Indicadores-Chave de Desempenho) com Números de Alta e Baixa</td>
       <td>Os KPIs são fundamentais para monitorar o desempenho e a saúde de um negócio. Apresentar números de alta e baixa ao lado dos KPIs permite uma rápida compreensão de tendências positivas e negativas, facilitando a tomada de decisões.</td>
     </tr>
     <tr>
+      <td><img src="https://github.com/EdnaldoLuiz/AWS-Cloud-Data-Engineering-Compass-UOL/assets/112354693/8e107574-ccba-4214-9b73-0fc46fc58b93" width=60px height=60px></td>
       <td>Gráfico de Linha com Áreas Empilhadas</td>
       <td>Este gráfico é ideal para mostrar tendências ao longo do tempo e também a contribuição de diferentes categorias para essa tendência. As áreas empilhadas fornecem uma representação visual clara da soma total, bem como das partes individuais que a compõem.</td>
     </tr>
     <tr>
+      <td><img src="https://github.com/EdnaldoLuiz/AWS-Cloud-Data-Engineering-Compass-UOL/assets/112354693/fb759704-df37-4d09-8f9e-f5c46af6524a" width=60px height=60px></td>
       <td>Gráfico de Linhas</td>
       <td>Os gráficos de linhas são eficazes para visualizar tendências ao longo do tempo de uma forma simples e direta. Eles permitem uma fácil identificação de padrões e mudanças de longo prazo em um conjunto de dados.</td>
     </tr>
     <tr>
+      <td><img src="https://github.com/EdnaldoLuiz/AWS-Cloud-Data-Engineering-Compass-UOL/assets/112354693/2da31f80-ba27-4313-9ccc-7c6bd891f933" width=60px height=60px></td>
       <td>Gráfico de Combinação de Barras Clusterizadas</td>
       <td>Este tipo de gráfico combina barras agrupadas e barras empilhadas, fornecendo uma maneira eficaz de comparar valores dentro de diferentes grupos e categorias. É útil quando se deseja visualizar tanto a distribuição quanto a comparação entre grupos.</td>
     </tr>
     <tr>
+      <td><img src="https://github.com/EdnaldoLuiz/AWS-Cloud-Data-Engineering-Compass-UOL/assets/112354693/baf60eb8-89ee-4ae6-b0e5-96aff7c7a30c" width=60px height=60px></td>
       <td>Mapa de Árvore</td>
       <td>O mapa de árvore é uma excelente escolha para visualizar hierarquias e relações entre diferentes categorias ou elementos. Ele permite uma compreensão clara da estrutura e organização dos dados, facilitando a identificação de padrões e insights.</td>
     </tr>
     <tr>
+      <td><img src="https://github.com/EdnaldoLuiz/AWS-Cloud-Data-Engineering-Compass-UOL/assets/112354693/66827cf9-e6b2-4b04-a8b9-a08495b0d4e7" width=60px height=60px></td>
       <td>Gráfico de Funil</td>
       <td>O gráfico de funil é ideal para representar o processo de conversão ou o fluxo de usuários em diferentes estágios de um processo. Ele destaca os pontos de atrito e permite identificar onde ocorrem as maiores perdas ou ganhos em um funil de vendas ou processo similar.</td>
     </tr>
