@@ -271,3 +271,16 @@
 - S3
 
 ---
+
+## Sprint 10 **[→](https://github.com/EdnaldoLuiz/AWS-Cloud-Data-Engineering-Compass-UOL/tree/main/sprint-10)** 
+
+> Essa foi a Sprint final, eu só tenho a agradecer essa oportunidade de aprendizado que me foi dada, não são muitos que tem essa chance, sou grato imensamente pela Compass ter sido a minha primeira oportunidade, e irei levar todo esse aprendizado e experiencia para a minha vida, nunca é um adeus :)
+
+### Aprendizados
+
+- Quicksight
+- AWS
+- Athena
+- S3
+
+---
