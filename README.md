@@ -130,7 +130,13 @@
 - [x] Desafio final 3/4
 
 ## Sprint 10 **[→]()** 
-![](https://progress-bar.dev/0/)
+![](https://progress-bar.dev/100/)
+
+**Responsavel:** Telma **[→]()**
+
+- [x] Exercícios 10/10
+- [x] Curso Quicksight
+- [x] Desafio final 4/4
 
 ---
 
